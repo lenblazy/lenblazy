@@ -17,11 +17,11 @@
 </div>
  
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya :kenya:.
+I am a Cloud Devops Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya :kenya:.
 
-- 🔭 Working as a Senior Software Engineer and contributing to Mobile apps and Backend API applications.
-- 🌱 I’m currently learning Advanced iOS Development in Swift.
-- ⚡ In my free time, I solve problems on HackeRank and read tech articles.
+- 🔭 Working as a Software Engineer and contributing to Mobile apps and Backend API applications.
+- 🌱 I’m currently learning LINUX System.
+- ⚡ In my free time, I contribute to open source projects.
 - 📫 How to reach me: lenblazy@gmail.com
 
 ---
